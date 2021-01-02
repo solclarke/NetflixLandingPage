@@ -228,6 +228,14 @@ img {
 	line-height: 1.9;
 }
 
+#made-by {
+	text-align: center;
+	margin-bottom: 3%;
+}
+#made-by a{
+	color: #999;
+}
+
 /* Container */
 .container {
 	max-width: 70%;
